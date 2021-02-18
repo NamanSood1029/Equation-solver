@@ -16,12 +16,12 @@ The files are the following:
 
 Recognizing the image:
 
-![image-20210218231540965](C:\Users\mynam\AppData\Roaming\Typora\typora-user-images\image-20210218231540965.png)
+![image-20210218231540965](readme_images/eq.PNG)
 
 Print result:
 
-![image-20210218231636587](C:\Users\mynam\AppData\Roaming\Typora\typora-user-images\image-20210218231636587.png)
+![image-20210218231636587](readme_images/res.PNG)
 
 Solution result
 
-![image-20210218231648448](C:\Users\mynam\AppData\Roaming\Typora\typora-user-images\image-20210218231648448.png)
+![image-20210218231648448](readme_images/json_solved.PNG)
